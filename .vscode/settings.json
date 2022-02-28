@@ -1,0 +1,21 @@
+{
+  "files.exclude": {
+    "**/analysis_options": true,
+    "**/analysis_options.*": true,
+    "**/CHANGELOG": true,
+    "**/CHANGELOG.*": true,
+    "ex1_string_interpolation/README.md": true,
+    "ex1_string_interpolation/.packages": true,
+    "ex2_nullable_variables/README.md": true,
+    "ex3_null_aware_operators/README.md": true,
+    "ex4_conditional_property_access/README.md": true,
+    "**/.dart_tool": true,
+    "**/.dart_tool.*": true,
+    "ex5_collection_literals/README.md": true,
+    "**/.gitignore": true,
+    "**/.gitignore.*": true,
+    "**/pubspec": true,
+    "**/.packages": true,
+    "**/.packages.*": true
+  }
+}
